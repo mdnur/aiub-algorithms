@@ -2,6 +2,10 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "chrono": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp"
     }
 }
